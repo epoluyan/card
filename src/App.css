@@ -1,0 +1,12 @@
+.window {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding: 40px;
+}
+
+.card {
+  padding: 50px;
+}
